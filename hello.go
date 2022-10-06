@@ -1,10 +1,8 @@
-// Its Deafault program
-
 package main
 
 import "fmt"
 
 func main() {
-	const i string = "frank"
-	fmt.Println(i)
+	var n float64 = 0.24e10
+	fmt.Println(n)
 }
